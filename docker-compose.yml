@@ -1,0 +1,5 @@
+web:
+  image: telegram-api
+  container_name: telegram-api
+  ports:
+    - "8081:8081"
